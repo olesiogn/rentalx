@@ -1,6 +1,16 @@
 {
   "name": "rentalx",
   "version": "1.0.0",
+  "description": "Car Rent API",
+  "author": "Olesio Gardenghi Neto",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olesiogn/rentalx.git"
+  },
+  "engines": {
+    "npm": ">=5.5.0",
+    "node": ">=9.3.0"
+  },
   "main": "index.js",
   "license": "MIT",
   "scripts": {
